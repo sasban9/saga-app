@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung M40",
+            "color": "black",
+            "price": 15000,
+            "category": "mobile",
+            "brand": "Samsung",
+            "photo": "https://vlebazaar.in/image/cache/catalog//B0BMGG6NKT/Samsung-Galaxy-M04-Dark-Blue-4GB-RAM-128GB-Storage--Upto-8GB-RAM-with-RAM-Plus---550x550.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone",
+            "color": "gold",
+            "price": 50000,
+            "category": "mobile",
+            "brand": "Apple",
+            "photo": "https://shop.unicornstore.in/uploads/images/medium/43cc6a704707513a2f7f0fcae20a51e4.jpg"
+        },
+        {
+            "id": 3,
+            "name": "T-shirt",
+            "color": "steelblue",
+            "price": 3999.95,
+            "category": "fashion",
+            "brand": "Nike",
+            "photo": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-af25497f-2123-4413-be41-52635f219c37/sportswear-t-shirt-zmMkxS.png"
+        },
+        {
+            "id": 4,
+            "name": "Sport Shoes",
+            "color": "fuchsia",
+            "price": 8000,
+            "category": "shoes",
+            "brand": "Reebok",
+            "photo": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/n/c/a/-original-imagpb4zspsjd8dn.jpeg?q=20"
+        }
+    ]
+}

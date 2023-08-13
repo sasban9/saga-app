@@ -1,6 +1,7 @@
 import { Col, Row, Tabs } from "antd";
 import React from "react";
 import {StepEight, StepFive, StepFour, StepOne, StepSix, StepThree, StepTwo} from "./OnboardingSteps";
+import StepSeven from "./OnboardingSteps/StepSeven";
 const Onboarding = () => {
 
   const items = [
@@ -37,7 +38,7 @@ const Onboarding = () => {
     {
       key: 7,
       label: "7. Ready for INVOICING",
-      children: <Row gutter={24}><StepThree /></Row>
+      children: <Row gutter={24}><StepSeven /></Row>
     },
     {
       key: 8,

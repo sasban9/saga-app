@@ -5,3 +5,5 @@ export {default as StepFour} from './StepFour'
 export {default as StepFive} from './StepFive'
 export {default as StepSix} from './StepSix'
 export {default as StepEight} from './StepEight'
+
+export {default as StepsList} from './StepsList'

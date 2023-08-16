@@ -15,7 +15,7 @@ import {
     const [activeKeys, setActiveKeys] = useState([1, 2, 3]);
     return (
       <>
-        <Col xs={24} xl={6} style={{ textAlign: "left" }}>
+        <Col xs={24} xl={6} style={{ textAlign: "left", opacity: 0 }}>
           <p>Please note:</p>
           <>
             
@@ -36,7 +36,7 @@ import {
         <Col xs={24} md={18} lg={16} xl={12}>
           <h2>8️⃣ INVOICING Info</h2>
           <p>2/4 checks cleared</p>
-          <Progress percent={"50.00"} />
+          <Progress percent={"50"} />
   
           <div style={{ textAlign: "right" }}>
             <Radio.Group value={"small"} onChange={() => setActiveKeys([1])}>

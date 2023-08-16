@@ -30,24 +30,25 @@ const StepSeven = () => {
         </div>
         <Collapse defaultActiveKey={activeKeys} />
         <div>
-            <h3>Photos <Tag color="orange-inverse">7/10</Tag></h3>
-            List of cancelled orders from photographer <br/>
-            Orders processed in print job ID #XXXX   <br/>
-            XXXX/1 to XXXX/100  <br/>
-            List of print types <br/>
-        <img
+            <img
           alt=""
           style={{ margin: 16 }}
           src="https://ouch-cdn2.icons8.com/7KupNCeua3hOEIcCEs0zJSJmr5Qne_8G_Qcf8l1R3oU/rs:fit:256:231/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTgz/L2JhYzgyOTRiLTNk/ZTItNGNhNy04MTQ0/LTkyNmUwMTFkYjVh/NC5wbmc.png"
           align="left"
         />
+            <h3>Photos <Tag color="orange-inverse">7/10</Tag></h3>
+            List of cancelled orders from photographer <br/>
+            Orders processed in print job ID #XXXX   <br/>
+            XXXX/1 to XXXX/100  <br/>
+            List of print types <br/>
+            <hr/>
             List of commandes placed with printers <br/>
             Print types <br/>
             Mise en pochette requested or not <br/>
             Marked as Billable for Invoicing <br/>
             Order update from printer  <br/>
             Unprocessed orders after first round of production <br/>
-            Missed orders 
+            Missed orders <br/>
 
         </div>
       </Col>
